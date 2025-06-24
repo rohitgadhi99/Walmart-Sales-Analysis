@@ -55,8 +55,8 @@ This is an end-to-end data analysis project designed to extract critical busines
 
 ## Results and Insights
 
-- **Sales Insights**: Key categories, branches with highest sales, and preferred payment methods.
-- **Profitability**: Insights into the most profitable product categories and locations.
-- **Customer Behavior**: Trends in ratings, payment preferences, and peak shopping hours.
+- **Sales Insights**: The categories contributing to majority of sales are 'Fashion accessories' and  'Home and lifestyle' and customers most preferred Credit card as payment method
+- **Profitability**: The above two were also the most profitable categories for walmart
+- **Customer Behavior**: The peak profitable hours were 3 PM to 8 PM of the day where customers tend to shop more.
 
 
