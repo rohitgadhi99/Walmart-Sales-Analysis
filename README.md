@@ -48,9 +48,9 @@ This is an end-to-end data analysis project designed to extract critical busines
    - The second page showing the time trends i.e. sales by hour, day, month and by category.
    - The third is profitability analysis showing profit with respect to different parameters.
 
-     ![Project Pipeline](https://github.com/rohitgadhi99/Walmart-Sales-Analysis/blob/main/Walmart%20dashboard%20page1.png)
+     ![Project Pipeline](https://github.com/rohitgadhi99/Walmart-Sales-Analysis/blob/main/Walmart%20dashboard%20page2.png)
 
-     ![Project Pipeline](https://github.com/rohitgadhi99/Walmart-Sales-Analysis/blob/main/Walmart%20dashboard%20page1.png)
+     ![Project Pipeline](https://github.com/rohitgadhi99/Walmart-Sales-Analysis/blob/main/Walmart%20dashboard%20page3.png)
 
 
 ## Results and Insights
