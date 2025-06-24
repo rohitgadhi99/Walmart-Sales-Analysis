@@ -38,26 +38,25 @@ This is an end-to-end data analysis project designed to extract critical busines
 ### 6. SQL Analysis: Complex Queries and Business Problem Solving
    - **Business Problem-Solving**: Write and execute complex SQL queries to answer critical business questions, such as:
      - Revenue trends across branches and categories.
-
-         ```sql
-         
-         SELECT * 
-         FROM
-            (	SELECT 
-         		branch,
-         		category,
-         		AVG(rating) as avg_rating,
-         		RANK() OVER(PARTITION BY branch ORDER BY AVG(rating) DESC) as ranks
-         	     FROM walmart
-         	     GROUP BY 1, 2
-         	) as t
-         WHERE ranks = 1;
-         ```
-            
-
      - Identifying best-selling product categories.
      - Sales performance by time, city, and payment method.
      - Analyzing peak sales periods and customer buying patterns.
      - Profit margin analysis by branch and category.
-   - **Documentation**: Keep clear notes of each query's objective, approach, and results.
+    
+### 7. Visualized the results in Power BI
+   - The first page showing KPIs, total sales by various parameters and the average ratings by custmers.
+   - The second page showing the time trends i.e. sales by hour, day, month and by category.
+   - The third is profitability analysis showing profit with respect to different parameters.
+
+     ![Project Pipeline](https://github.com/rohitgadhi99/Walmart-Sales-Analysis/blob/main/Walmart%20dashboard%20page1.png)
+
+     ![Project Pipeline](https://github.com/rohitgadhi99/Walmart-Sales-Analysis/blob/main/Walmart%20dashboard%20page1.png)
+
+
+## Results and Insights
+
+- **Sales Insights**: Key categories, branches with highest sales, and preferred payment methods.
+- **Profitability**: Insights into the most profitable product categories and locations.
+- **Customer Behavior**: Trends in ratings, payment preferences, and peak shopping hours.
+
 
