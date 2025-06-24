@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis: End to end using Python + SQL + Power BI
+# Walmart Sales Data Analysis: Using Python + SQL + Power BI
 
 ## Project Overview
 
