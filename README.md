@@ -38,7 +38,7 @@ This is an end-to-end data analysis project designed to extract critical busines
 ### 6. SQL Analysis: Complex Queries and Business Problem Solving
    - **Business Problem-Solving**: Write and execute complex SQL queries to answer critical business questions, such as:
      - Revenue trends across branches and categories.
-             ```sql
+       
 
                    SELECT * FROM
                                  (	SELECT 
@@ -50,7 +50,7 @@ This is an end-to-end data analysis project designed to extract critical busines
                               	     GROUP BY 1, 2
                               	) as t
                        WHERE ranks = 1;
-             ```
+            
 
      - Identifying best-selling product categories.
      - Sales performance by time, city, and payment method.
