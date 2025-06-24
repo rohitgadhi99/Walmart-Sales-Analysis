@@ -44,6 +44,7 @@ This is an end-to-end data analysis project designed to extract critical busines
      - Profit margin analysis by branch and category.
     
 ### 7. Visualized the results in Power BI
+   - Created a 3 page interactive dashboard analyzing Walmart's sales data, exploring various visuals, created DAX measures wherever required
    - The first page showing KPIs, total sales by various parameters and the average ratings by custmers.
    - The second page showing the time trends i.e. sales by hour, day, month and by category.
    - The third is profitability analysis showing profit with respect to different parameters.
