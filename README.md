@@ -2,4 +2,4 @@
 
 ## Project Overview
 
-![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
+![Project Pipeline](https://github.com/rohitgadhi99/Walmart-Sales-Analysis/blob/main/Walmart%20dashboard%20page1.png)
