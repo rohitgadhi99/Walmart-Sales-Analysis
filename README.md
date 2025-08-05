@@ -4,7 +4,7 @@
 
 ![Project Pipeline](https://github.com/rohitgadhi99/Walmart-Sales-Analysis/blob/main/Walmart%20dashboard%20page1.png)
 
-This is an end-to-end data analysis project designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions and eventually visualized the results using Power BI. The project helped me hone my skills in data manipulation, SQL querying, and data pipeline creation.
+This is an end-to-end data analysis project designed to extract critical business insights from Walmart sales data. I utilized Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions and eventually visualized the results using Power BI. The project helped me hone my skills in data manipulation, SQL querying, and data pipeline creation.
 
 ---
 
